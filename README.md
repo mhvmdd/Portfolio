@@ -43,9 +43,8 @@ I’m a passionate Embedded Systems Engineer with experience building real-time 
 
 ## 📬 Contact
 
-- **Email**: [mohammed@example.com](mailto:mohammed@example.com)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [mohammeduni585@gmail.com](mailto:mohammeduni585@gmail.com)   
+- **LinkedIn**: [linkedin.com/in/muhammeddyasserr](https://www.linkedin.com/in/muhammeddyasserr/)
 
 ---
 
