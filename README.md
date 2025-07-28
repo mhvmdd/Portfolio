@@ -26,10 +26,6 @@ I’m a passionate Embedded Systems Engineer with experience building real-time 
 - Designed a full C-based terminal library system.
 - Features include authentication, multiple user types, and robust error handling.
 
-### 🗂️ Access DB Library App
-- Built a full-featured library database system using Microsoft Access.
-- Enabled searching, borrowing, and generating reports.
-
 ### 📍 GPS Tracking System (Tiva C)
 - Developed a GPS-based tracking system using Tiva C microcontroller.
 - Parsed NMEA sentences and displayed coordinates over UART.
